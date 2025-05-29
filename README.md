@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Kriptoyad
+-  ## 👋 Hello, I'm Kriptoyad!
 - 👀 I’m interested in ...testnet
 - 🌱 I’m currently learning ...node
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+🚀 A passionate content creator focused on **blockchain** and **privacy ecosystems**.  
+💡 Especially interested in zk (zero-knowledge), MASP, Namada, Anoma, Penumbra, and cutting-edge privacy technologies.  
+🎯 My goal: Spread awareness, produce content, and help grow the privacy community.
+---
+### 🌐 Areas of Interest
+- 🌑 Zero-Knowledge Proofs
+- 🔒 Privacy-preserving blockchains
+- 🛠️ MASP, zk-SNARK, zk-STARK technologies
+- 🤝 Community building & content campaigns
 
-<!---
-Kriptoyad/Kriptoyad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 📲 Connect With Me
+- Twitter: [@nodebaha](https://twitter.com/nodebaha) *(update this if you have or plan to open it)*
+- GitHub: [github.com/Kriptoyad](https://github.com/Kriptoyad)
+
+---
+
+💬 **Always open to collaborations and connections!**
