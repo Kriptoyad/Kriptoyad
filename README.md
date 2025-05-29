@@ -16,7 +16,7 @@
 ---
 
 ### 📲 Connect With Me
-- Twitter: [@nodebaha](https://twitter.com/nodebaha) *(update this if you have or plan to open it)*
+- Twitter: [@nodebaha](https://twitter.com/nodebaha) 
 - GitHub: [github.com/Kriptoyad](https://github.com/Kriptoyad)
 
 ---
